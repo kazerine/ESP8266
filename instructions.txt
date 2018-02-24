@@ -1,0 +1,7 @@
+to flash:
+ESP                   ARDUINO
+tx                       tx
+rx                       rx
+gnd                     gnd
+vcc + ch_pd            3.3v
+GPIO0                   gnd   //IMPORTANT : connect it before boot to enter flash mode//
